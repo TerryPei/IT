@@ -3,7 +3,7 @@
 - [algorithm](algorithm/README.md)
     - [GS](algorithm/gs.md)
 
-- [swift](swift.md)
+- [swift](ios/swift.md)
 
 - [database](database/README.md)
     - [MySQL](database/MySQL.md)
