@@ -6,6 +6,7 @@
 - [swift](ios/swift.md)
 
 - [database](database/README.md)
+    - [concepts](database/concepts.md)
     - [MySQL](database/MySQL.md)
     - [PostgreSQL](database/PostgreSQL.md)
 
